@@ -1,6 +1,2 @@
-def parrot(sound = "Squawk!")
-  puts sound
-  sound
+def parrot(word = "Squawk")
 end
-
-phrase = parrot("Pretty bird!")
